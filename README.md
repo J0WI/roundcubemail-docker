@@ -1,5 +1,4 @@
-
-[![Build Status](https://travis-ci.org/roundcube/roundcubemail-docker.svg)](https://travis-ci.org/roundcube/roundcubemail-docker)
+[![GitHub CI build status badge](https://github.com/roundcube/roundcubemail-docker/workflows/GitHub%20CI/badge.svg)](https://github.com/roundcube/roundcubemail-docker/actions?query=workflow%3A%22GitHub+CI%22)
 [![Docker Pulls](https://img.shields.io/docker/pulls/roundcube/roundcubemail.svg)](https://hub.docker.com/r/roundcube/roundcubemail/)
 
 # Running Roundcube in a Docker Container
